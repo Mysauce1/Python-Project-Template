@@ -1,5 +1,5 @@
 [![Python Template for IDS706](https://github.com/Mysauce1/IDS_706_DE_WK1/actions/workflows/main.yml/badge.svg)](https://github.com/Mysauce1/IDS_706_DE_WK1/actions/workflows/main.yml)
-# IDS_706_DE_WK1
+# IDS 706 - Data Engineering - Week 1 - Python Project Template
 
 ## Overview
 The IDS_706_DE_WK1 repository creates a template for Python projects. 
